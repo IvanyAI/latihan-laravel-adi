@@ -1,1 +1,1 @@
-# latihan-laravel-adrian
+# latihan-laravel-adi
